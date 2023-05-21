@@ -3,3 +3,14 @@ Convertir de Binario a Decimal (por posicion)
 Ejercicio 1.-
 Convetir 10111010001 a (Base10)
 
+[1]    [0] [1]   [1]   [1]  [0] [1]  [0] [0] [0] [1] (bin)
+[1024] [0] [256] [128] [64] [0] [16] [0] [0] [0] [1] (dec)
+
+Sumar:
+ 1024
+  256       
+  128    
+   64
+    1
+------
+ 1489
