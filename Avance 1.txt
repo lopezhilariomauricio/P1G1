@@ -1,0 +1,5 @@
+Convertir de Binario a Decimal (por posicion)
+
+Ejercicio 1.-
+Convetir 10111010001 a (Base10)
+
